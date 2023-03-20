@@ -12,3 +12,10 @@ Todos esos casos y muchos más se pueden especificar dentro del archivo .gitigno
 
 - ¿Cómo configuraría el archivo .gitignore?
 Primero creo el archivo , y en el agrego los archivos que quiero que sean ignorados con reglas especificas según el tipo de archivo.
+
+## PUNTO 3
+
+- El apartado 2 y 3 del inciso "e" ya que la dirección de memoria que almacena el puntero es justamente la dirección de memoria de la variable.
+
+- En el apartado 4 obtengo la dirección de memoria en donde está almacenado el puntero. Esto no es igual a los apartados anteriormente mencionados ya que en los otros casos lo que se almacena es la dirección de memoria de la variable a la que apunta el puntero, no a la del puntero en sí.
+
